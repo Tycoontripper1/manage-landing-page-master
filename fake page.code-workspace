@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Desktop\\huge landing"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "manage-landing-page-master",
+		"liveServer.settings.port": 5502
+	}
+}
